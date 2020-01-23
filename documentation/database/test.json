@@ -1,0 +1,36 @@
+{
+  "id": "",
+  "name": "",
+  "visibility": "",
+  "description": "",
+  "created": "",
+  "updated": "",
+  "author": { "id": "", "email": "", "firstname": "", "surname": "" },
+  "category": { "id": "", "name": "" },
+  "question": [
+    {
+      "id": "",
+      "question": "",
+      "answerPattern": "",
+      "maxScore": "",
+      "difficulty": "",
+      "order": "",
+      "answer": [
+        { "id": "", "answer": "", "score": "", "order": "" },
+        { "id": "", "answer": "", "score": "", "order": "" }
+      ]
+    },
+    {
+      "id": "",
+      "question": "",
+      "answerPattern": "",
+      "maxScore": "",
+      "difficulty": "",
+      "order": "",
+      "answer": [
+        { "id": "", "answer": "", "score": "", "order": "" },
+        { "id": "", "answer": "", "score": "", "order": "" }
+      ]
+    }
+  ]
+}

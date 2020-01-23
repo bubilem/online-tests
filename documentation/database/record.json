@@ -1,0 +1,39 @@
+{
+  "id": "",
+  "start": "",
+  "end": "",
+  "overtime": "",
+  "succesRate": "",
+  "grade": "",
+  "description": "",
+  "assignment": { "id": "" },
+  "user": { "id": "", "email": "", "firstname": "", "surname": "" },
+  "question": [
+    {
+      "id": "",
+      "question": "",
+      "userAnswer": "",
+      "answerPattern": "",
+      "maxScore": "",
+      "difficulty": "",
+      "order": "",
+      "answer": [
+        { "id": "", "answer": "", "score": "", "order": "", "selected": "" },
+        { "id": "", "answer": "", "score": "", "order": "", "selected": "" }
+      ]
+    },
+    {
+      "id": "",
+      "question": "",
+      "userAnswer": "",
+      "answerPattern": "",
+      "maxScore": "",
+      "difficulty": "",
+      "order": "",
+      "answer": [
+        { "id": "", "answer": "", "score": "", "order": "", "selected": "" },
+        { "id": "", "answer": "", "score": "", "order": "", "selected": "" }
+      ]
+    }
+  ]
+}
